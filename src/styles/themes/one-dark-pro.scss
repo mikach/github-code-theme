@@ -1,0 +1,36 @@
+body.github-theme-one-dark-pro {
+    table.highlight {
+        background-color: #282c34;
+
+        .blob-code {
+            color: #A6B2C0;
+
+            span.pl-k {
+                color: #c678dd
+            }
+            span.pl-s {
+                color: #98c379
+            }
+            span.pl-pds {
+                color: #98c379
+            }
+            span.pl-smi, span.pl-s1 {
+                color: #e06c75;
+            }
+            span.pl-en {
+                color: #61afef;
+            }
+            span.pl-c1 {
+                color: #56b6c2;
+            }
+            span.pl-c {
+                color: #5C6370;
+                font-style: italic;
+            }
+        }
+
+        .blob-num {
+            color: #495162;
+        }
+    }
+}
