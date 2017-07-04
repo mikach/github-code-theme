@@ -1,0 +1,38 @@
+    body.github-theme-monokai {
+        table.highlight {
+            background-color: #272822;
+
+            .blob-code {
+                color: #F8F8F2;
+
+                span.pl-k {
+                    color: #F92672;
+                }
+                span.pl-s {
+                    color: #E6DB74;
+                }
+                span.pl-pds {
+                    color: #E6DB74;
+                }
+                span.pl-smi, span.pl-ent, span.pl-e {
+                    color: #FD971F;
+                }
+                span.pl-s1 {
+                    color: #F8F8F2;
+                }
+                span.pl-en {
+                    color: #A6E22E;
+                }
+                span.pl-c1 {
+                    color: #66D9EF;
+                }
+                span.pl-c {
+                    color: #75715E;
+                }
+            }
+
+            .blob-num {
+                color: #90908a;
+            }
+        }
+    }

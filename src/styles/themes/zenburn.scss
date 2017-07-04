@@ -1,0 +1,38 @@
+    body.github-theme-zenburn {
+        table.highlight {
+            background-color: #393939;
+
+            .blob-code {
+                color: #fff;
+
+                span.pl-k {
+                    color: #FED6AF;
+                }
+                span.pl-s {
+                    color: #D68686;
+                }
+                span.pl-pds {
+                    color: #D68686;
+                }
+                span.pl-smi, span.pl-ent, span.pl-e {
+                    color: #FED6AF;
+                }
+                span.pl-s1 {
+                    color: #FED6AF;
+                }
+                span.pl-en {
+                    color: #FFFD87;
+                }
+                span.pl-c1 {
+                    color: #ECECEC;
+                }
+                span.pl-c {
+                    color: #87AE86;
+                }
+            }
+
+            .blob-num {
+                color: #D6D6D6;
+            }
+        }
+    }
